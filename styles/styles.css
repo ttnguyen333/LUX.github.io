@@ -1,0 +1,28 @@
+h1 {
+  color: burlywood;
+}
+p {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  font-size: 14pt;
+}
+.Bulletpoints {
+  color: purple;
+  font-variant: small-caps;
+}
+
+#everything {
+  color: purple;
+}
+
+#notice {
+  color: red;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-weight: normal;
+}
+
+.important-text {
+  color: rebeccapurple;
+  font-weight: bold;
+}
